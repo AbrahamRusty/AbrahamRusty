@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Abraham Rusty Djajani
+## I’m interested in Programming, Business Development, and Digital Marketing.
+## I’m currently learning C++, HTML, CSS, JavaScript & Cloud Computing
+## email me on abrahamrustydj@gmail.com
 
 <!--
 **AbrahamRusty/AbrahamRusty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
