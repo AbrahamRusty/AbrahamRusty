@@ -171,4 +171,4 @@ AI & Data Analysis | Product Development | IoT System Design | Web3 Integration 
 
 <div align="center">
   <b>⭐ From <a href="https://github.com/abrahamrusty">Abraham Rusty</a> — Bridging Web2 to Web3 through Smart Connectivity ⚡</b>
-</div>(buatkan jadi satu kesatuan kaya ginii, jangan pisah2 text gitu)
+</div>
