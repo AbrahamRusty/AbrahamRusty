@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Abraham Rusty (Rustacle)</h1>
-<h3 align="center">🚀 CEO & Founder of Tribez | 💻 Tech & Business Strategist | 🌐 Web3 Ecosystem Builder</h3>
+<h3 align="center">🚀 CEO & Co-Founder of Tribez | 💡 Tech & Business Innovator | 🌐 Web3 & IoT Ecosystem Builder</h3>
 
 <br/>
 
@@ -17,109 +17,142 @@
 
 ## 🇮🇩 Tentang Saya (ID)
 
-Halo! Saya **Abraham Rusty**, mahasiswa dari **Universitas Tarumanagara** sekaligus **Founder & CEO dari Tribez**, startup yang berfokus pada **Digital Marketing Marketplace dan Business Development untuk UMKM**.  
+Saya adalah **Abraham Rusty Djajani**, mahasiswa **Teknik Informatika Universitas Tarumanagara**, sekaligus **CEO & Co-Founder dari Tribez**, sebuah startup digital marketing yang membantu UMKM melalui **otomasi, AI analytics, dan strategi kreatif**.
 
-Saya punya ketertarikan besar di persimpangan antara **Teknologi, Bisnis, dan Inovasi**. Bagi saya, teknologi bukan sekadar alat — tapi **jembatan untuk menciptakan dampak sosial dan ekonomi nyata**, terutama bagi generasi muda dan pelaku usaha kecil.
+Selain berfokus pada dunia digital marketing, saya juga tengah mengembangkan **ekosistem Web3 dan IoT** yang bertujuan untuk menciptakan konektivitas baru antara bisnis, pengguna, dan teknologi.  
+Bagi saya, **teknologi desentralisasi dan Internet of Things (IoT)** bukan sekadar tren, tapi fondasi untuk membangun **ekonomi digital yang lebih transparan, efisien, dan terintegrasi**.
 
-💡 Saat ini saya aktif mengembangkan ekosistem digital Tribez, menghubungkan UMKM lintas negara, serta bereksperimen dengan teknologi **AI, Web3, dan Automation System** untuk mendemokratisasi pertumbuhan bisnis di era digital.
+💬 Saya percaya masa depan bisnis adalah kolaboratif dan terhubung — di mana AI, IoT, dan Web3 bekerja bersama untuk membangun dunia yang lebih cerdas.
 
 ---
 
 ## 🌍 About Me (EN)
 
-Hi there! I'm **Abraham Rusty**, a **student, startup founder, and digital innovator** from Indonesia.  
-As the **CEO of Tribez**, I’m passionate about merging **technology and business** to create meaningful impact through scalable digital ecosystems.  
+I’m **Abraham Rusty**, a **Computer Science student, tech entrepreneur, and ecosystem builder** passionate about the intersection of **AI, Web3, and IoT**.  
+As the **CEO and Co-Founder of Tribez**, I’m building a **digital marketing marketplace** that empowers SMEs through **automation, AI-driven analytics, and community-driven business strategies**.
 
-I love turning ideas into real systems from building automation tools to developing community-driven business platforms.  
-Currently, I’m focusing on **AI-based marketing automation**, **digital transformation for SMEs**, and exploring **Web3 solutions** that redefine how businesses grow globally.
+Currently, I’m expanding Tribez beyond digital marketing — into developing a **Web3 ecosystem integrated with IoT** to create smarter business connectivity, secure transactions, and data-driven automation for SMEs.  
 
-✨ My mission: **To help young entrepreneurs build, scale, and connect their businesses through innovation.**
-
----
-
-## 🚀 What I'm Currently Working On
-
-- 🔭 Building **Tribez**, a digital marketing marketplace for SMEs  
-- ⚙️ Developing **automation systems** for social media management  
-- 🧠 Researching **AI & Web3 integration** in business development  
-- 🌱 Learning more about **IoT, fintech, and digital ecosystem architecture**  
-- 💬 Open to collaborations in **Tech Startups, AI Systems, or Product Strategy**  
-- 📫 Reach me at: **abrahamrusty.business@gmail.com**  
-- ⚡ Fun fact: I believe great founders are lifelong learners — and I learn every day from the people around me.
+🌱 My long-term goal is to **build a decentralized ecosystem** where technology enhances trust, scalability, and collaboration across industries.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧩 Professional Experience
 
-### **Languages & Frameworks**
+### 🚀 **Tribez** — Co-Founder & Chief Executive Officer  
+📍 Grogol, West Jakarta | *Sept 2024 – Oct 2025*  
+- Building a **digital marketing marketplace** integrated with automation & AI analytics for SMEs.  
+- Leading R&D for **Web3 and IoT ecosystem integration** into business platforms.  
+- Developing product strategies, collaborating with tech & creative teams to deliver scalable solutions.  
+- Managing stakeholder relations with **investors, partners, and institutions**.  
+
+### 🧠 **Tarumanagara Enterprise** — Project Manager  
+📍 Grogol, West Jakarta | *Sept 2025 – Present*  
+- Created project roadmaps and digital transformation strategies for academic platforms.  
+- Coordinated developers, designers, and institutional partners to deliver innovative products.  
+- Oversaw project milestones, budgets, and delivery pipelines.  
+
+### 🍜 **Gandarichi** — Operational Manager  
+📍 South Jakarta | *Apr 2023 – May 2024*  
+- Supervised restaurant operations and optimized team performance.  
+- Controlled supply chains and implemented cost-efficiency strategies.  
+
+### 🍢 **Dakkochi** — Business Owner  
+📍 West Jakarta | *Apr 2022 – Jul 2022*  
+- Developed branding, menu, and marketing campaigns for growth.  
+- Managed operations, suppliers, and financial planning.
+
+---
+
+## 🔗 Web3 & IoT Vision
+
+🌐 **"Building a Connected, Decentralized Future."**
+
+My current focus is to **bridge Web2 businesses into the Web3 era** through interoperable systems powered by IoT and blockchain integration.  
+This includes:  
+- 🧠 Developing **IoT-based authentication and data sensors** for secure business operations.  
+- 🔗 Exploring **blockchain applications** for supply chain transparency and decentralized identity.  
+- 💡 Experimenting with **tokenized incentive models** for digital community engagement.  
+
+I envision a world where **data, automation, and connectivity** empower small businesses to compete globally — without relying on centralized systems.
+
+---
+
+## 🏆 Achievements & Awards
+
+- 🥇 **Best Pitch & Best Startup Award — The Venturist Programme (2025)**  
+- 🥇 **Best Pitch — CEO Bootcamp 3.0 (2025)**  
+- 🥇 **1st National & 2nd Global Winner — Global Startup Hackathon (2025)**  
+- 🧠 **Best Problem Statement Winner — Startup Ecosystem Exposure (NUS x UNTAR 2025)**  
+- 🥈 **Silver Medal — National Astronomy Olympiad (Yapresindo 2022)**  
+- 🥉 **Bronze Medal — National Astronomy Olympiad (POSI 2020)**  
+
+---
+
+## 🎓 Education
+
+**Tarumanagara University**  
+📘 *Bachelor of Information Technology — Computer Science (2024 – Present)*  
+- Research on **climate-based food price prediction** using time & sentiment analysis.  
+- Developed full-stack **academic web platform**.  
+- Explored **cryptographic methods** to secure digital records.
+
+---
+
+## 🎯 Certifications
+
+- 🧩 Certified Project Management Associate — *Dicoding Indonesia (2024–2027)*  
+- 🤖 Certified Artificial Intelligence Program — *Dicoding Indonesia (2024–2027)*  
+- 📊 Certified Data Science Basic Program — *Dicoding Indonesia (2024–2027)*  
+
+---
+
+## 💡 Skills
+
+### **Soft Skills**
+Leadership | Analytical Thinking | Communication | Adaptability | Strategic Planning | Problem Solving | Team Collaboration  
+
+### **Hard Skills**
+AI & Data Analysis | Product Development | IoT System Design | Web3 Integration | Blockchain Architecture | Business Strategy | Stakeholder Management | Automation  
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" title="Ethereum"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
 </div>
-
-### **Business & Data Tools**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" alt="MySQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" alt="Pandas"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" alt="NumPy"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL"/>
-</div>
-
-### **Creative & Productivity**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" alt="Figma"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" alt="GitHub"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VSCode" alt="VSCode"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrahamrusty&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamrusty&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamrusty&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🧩 **Founder of Tribez**, a growing digital ecosystem for SMEs  
-- 💬 Speaker at national events about **digital innovation & youth entrepreneurship**  
-- 🥇 2× OSIS IT Division Leader & project head in creative & startup competitions  
-- 🌏 Represented student initiatives in **international startup programs**  
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abrahamrusty" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/abraham-rusty-djajani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="https://www.instagram.com/rustacle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
   </a>
-  <a href="mailto:abrahamrusty.business@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
+  <a href="mailto:abrahamrustydj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   <a href="https://discord.com/users/rustacle" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
   </a>
 </div>
 
@@ -136,5 +169,5 @@ Currently, I’m focusing on **AI-based marketing automation**, **digital transf
 </div>
 
 <div align="center">
-  <b>⭐ From <a href="https://github.com/abrahamrusty">Abraham Rusty</a> with passion & purpose ⚡</b>
+  <b>⭐ From <a href="https://github.com/abrahamrusty">Abraham Rusty</a> — Bridging Web2 to Web3 through Smart Connectivity ⚡</b>
 </div>
